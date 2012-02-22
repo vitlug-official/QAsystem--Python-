@@ -1,5 +1,4 @@
 
-
 THE CODE IS INCOMPLETE. SOME FINAL STEPS NEED TO BE DONE TO GET THE PRECISE ANSWER
 
 #TO RUN THE CODE
@@ -25,4 +24,6 @@ python matching.py
 1. POS tagging for the question 
 
 2. matching of the POS tag for the wordnet step 
+
+[Code by Dheeraj R - dheeraj091 ]
 
